@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Geometry traced from public/favicon.ico. Monochrome treatment. -->
+  <defs><mask id="mark"><rect width="64" height="64" fill="white"/><rect x="22" y="22" width="21" height="9" rx="4.5"/><rect x="19" y="34" width="27" height="9" rx="4.5"/></mask></defs>
+  <circle cx="32" cy="32" r="32" fill="#17191b" mask="url(#mark)"/>
+</svg>
